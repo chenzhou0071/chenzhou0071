@@ -1,6 +1,6 @@
 # Hi, I'm Chen Zhou 👋
 
-A junior majoring in Computer Science and Technology, focusing on backend development.
+### A junior majoring in Computer Science and Technology, focusing on backend development.
 
 ## 🙋 About Me
 
