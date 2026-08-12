@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="495" height="274" viewBox="0 0 495 274" role="img" aria-label="Top Languages">
+  <rect x="0.5" y="0.5" width="494" height="273" rx="6" fill="#ffffff" stroke="#e4e2e2" />
+  <text x="16" y="24" fill="#434d58" font-family="Verdana, Geneva, sans-serif" font-size="16" font-weight="bold">Top Languages</text>
+  
+    <circle cx="22" cy="48" r="5" fill="#3572A5" />
+    <text x="34" y="52" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14">Python</text>
+    <text x="220" y="52" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14" text-anchor="end">39.9%</text>
+    <rect x="230" y="41" width="249" height="8" rx="4" fill="#e4e2e2" />
+    <rect x="230" y="41" width="99.28473861870367" height="8" rx="4" fill="#3572A5" />
+  
+    <circle cx="22" cy="76" r="5" fill="#f34b7d" />
+    <text x="34" y="80" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14">C++</text>
+    <text x="220" y="80" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14" text-anchor="end">23.8%</text>
+    <rect x="230" y="69" width="249" height="8" rx="4" fill="#e4e2e2" />
+    <rect x="230" y="69" width="59.37859815552751" height="8" rx="4" fill="#f34b7d" />
+  
+    <circle cx="22" cy="104" r="5" fill="#3178c6" />
+    <text x="34" y="108" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14">TypeScript</text>
+    <text x="220" y="108" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14" text-anchor="end">23.3%</text>
+    <rect x="230" y="97" width="249" height="8" rx="4" fill="#e4e2e2" />
+    <rect x="230" y="97" width="58.015478368528264" height="8" rx="4" fill="#3178c6" />
+  
+    <circle cx="22" cy="132" r="5" fill="#555555" />
+    <text x="34" y="136" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14">C</text>
+    <text x="220" y="136" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14" text-anchor="end">5.9%</text>
+    <rect x="230" y="125" width="249" height="8" rx="4" fill="#e4e2e2" />
+    <rect x="230" y="125" width="14.57816563952895" height="8" rx="4" fill="#555555" />
+  
+    <circle cx="22" cy="160" r="5" fill="#e34c26" />
+    <text x="34" y="164" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14">HTML</text>
+    <text x="220" y="164" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14" text-anchor="end">4.1%</text>
+    <rect x="230" y="153" width="249" height="8" rx="4" fill="#e4e2e2" />
+    <rect x="230" y="153" width="10.205274134765437" height="8" rx="4" fill="#e34c26" />
+  
+    <circle cx="22" cy="188" r="5" fill="#563d7c" />
+    <text x="34" y="192" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14">CSS</text>
+    <text x="220" y="192" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14" text-anchor="end">1.2%</text>
+    <rect x="230" y="181" width="249" height="8" rx="4" fill="#e4e2e2" />
+    <rect x="230" y="181" width="2.896520263755354" height="8" rx="4" fill="#563d7c" />
+  
+    <circle cx="22" cy="216" r="5" fill="#f1e05a" />
+    <text x="34" y="220" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14">JavaScript</text>
+    <text x="220" y="220" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14" text-anchor="end">0.8%</text>
+    <rect x="230" y="209" width="249" height="8" rx="4" fill="#e4e2e2" />
+    <rect x="230" y="209" width="2" height="8" rx="4" fill="#f1e05a" />
+  
+    <circle cx="22" cy="244" r="5" fill="#DA3434" />
+    <text x="34" y="248" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14">CMake</text>
+    <text x="220" y="248" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14" text-anchor="end">0.5%</text>
+    <rect x="230" y="237" width="249" height="8" rx="4" fill="#e4e2e2" />
+    <rect x="230" y="237" width="2" height="8" rx="4" fill="#DA3434" />
+  
+</svg>

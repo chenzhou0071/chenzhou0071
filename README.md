@@ -7,7 +7,8 @@
 - 🔭 I'm currently working on **an indie 2D multiplayer game**
 - 🌱 I'm currently learning **Unity** and **Go**
 - 📫 How to reach me: **1962203578@qq.com**
-- 📝 My blog: [blog.csdn.net/chenzhou__](https://blog.csdn.net/chenzhou__?type=blog)
+- 📝 My blog: [chenzhou0071.github.io](https://chenzhou0071.github.io/)
+- 📝 Early learning notes: [CSDN](https://blog.csdn.net/chenzhou__)
 
 ## Tech Stack
 
@@ -21,6 +22,7 @@
 ## GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chenzhou0071&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenzhou0071&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=chenzhou0071&hide_border=true" alt="GitHub streak stats" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/chenzhou0071/chenzhou0071/main/assets/top-langs.svg" alt="Top Languages" />
 </p>
