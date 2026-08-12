@@ -23,7 +23,7 @@
 
 <p>
   <strong>Contribution Streak</strong><br/>
-  <img height="165" src="https://streak-stats.demolab.com/?user=chenzhou0071&hide_border=true" alt="GitHub streak stats" />
+  <img height="200" src="https://streak-stats.demolab.com/?user=chenzhou0071&hide_border=true" alt="GitHub streak stats" />
   <br/><br/>
   <strong>Top Languages</strong><br/>
   <img src="https://raw.githubusercontent.com/chenzhou0071/chenzhou0071/main/assets/top-langs.svg" alt="Top Languages" />
