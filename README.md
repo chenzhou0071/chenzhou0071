@@ -19,12 +19,8 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-## GitHub Stats
+## Top Languages
 
 <p>
-  <strong>Contribution Streak</strong><br/>
-  <img height="200" src="https://streak-stats.demolab.com/?user=chenzhou0071&hide_border=true" alt="GitHub streak stats" />
-  <br/><br/>
-  <strong>Top Languages</strong><br/>
   <img src="https://raw.githubusercontent.com/chenzhou0071/chenzhou0071/main/assets/top-langs.svg" alt="Top Languages" />
 </p>
