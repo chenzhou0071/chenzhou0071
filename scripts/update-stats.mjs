@@ -78,10 +78,10 @@ const entries = Object.entries(langBytes).sort((a, b) => b[1] - a[1]);
 const total = entries.reduce((s, [, v]) => s + v, 0);
 console.log('语言分布:', entries.map(([k, v]) => `${k} ${(v / total * 100).toFixed(1)}%`).join(', '));
 
-// 3. 生成 SVG 卡片（仿 github-readme-stats 风格）
+// 3. 生成 SVG 卡片（仿 github-readme-stats 风格，无内部标题）
 const W = 495;
 const ROW_H = 28;
-const HEADER = 34;
+const HEADER = 20;
 const PAD = 16;
 const N = Math.min(entries.length, 8);
 const H = HEADER + N * ROW_H + PAD;
@@ -104,7 +104,6 @@ const rows = entries.slice(0, N).map(([name, bytes], i) => {
 
 const svg = `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="Top Languages">
   <rect x="0.5" y="0.5" width="${W - 1}" height="${H - 1}" rx="6" fill="#ffffff" stroke="#e4e2e2" />
-  <text x="${PAD}" y="24" fill="#434d58" font-family="Verdana, Geneva, sans-serif" font-size="16" font-weight="bold">Top Languages</text>
   ${rows}
 </svg>`;
 

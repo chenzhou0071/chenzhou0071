@@ -1,6 +1,6 @@
 # Hi, I'm Chen Zhou 👋
 
-### A junior majoring in Computer Science and Technology, focusing on backend development.
+### Undergraduate majoring in Computer Science and Technology, passionate about backend development.
 
 ## About Me
 
@@ -22,7 +22,9 @@
 ## GitHub Stats
 
 <p>
+  <strong>Contribution Streak</strong><br/>
   <img height="165" src="https://streak-stats.demolab.com/?user=chenzhou0071&hide_border=true" alt="GitHub streak stats" />
-  <br/>
+  <br/><br/>
+  <strong>Top Languages</strong><br/>
   <img src="https://raw.githubusercontent.com/chenzhou0071/chenzhou0071/main/assets/top-langs.svg" alt="Top Languages" />
 </p>
