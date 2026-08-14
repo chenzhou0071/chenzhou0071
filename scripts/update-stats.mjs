@@ -36,7 +36,7 @@ const LANG_COLORS = {
   Scala: '#c22d40',
   Lua: '#000080',
   R: '#198CE7',
-  CSharp: '#178600',
+  'C#': '#178600',
   FSharp: '#b845fc',
   Dockerfile: '#384d54',
 };
