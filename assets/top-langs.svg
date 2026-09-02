@@ -3,50 +3,50 @@
   
     <circle cx="22" cy="34" r="5" fill="#3572A5" />
     <text x="34" y="38" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14">Python</text>
-    <text x="220" y="38" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14" text-anchor="end">36.6%</text>
+    <text x="220" y="38" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14" text-anchor="end">35.5%</text>
     <rect x="230" y="27" width="249" height="8" rx="4" fill="#e4e2e2" />
-    <rect x="230" y="27" width="91.21891561323096" height="8" rx="4" fill="#3572A5" />
+    <rect x="230" y="27" width="88.41032172258794" height="8" rx="4" fill="#3572A5" />
   
     <circle cx="22" cy="62" r="5" fill="#f34b7d" />
     <text x="34" y="66" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14">C++</text>
-    <text x="220" y="66" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14" text-anchor="end">21.9%</text>
+    <text x="220" y="66" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14" text-anchor="end">21.2%</text>
     <rect x="230" y="55" width="249" height="8" rx="4" fill="#e4e2e2" />
-    <rect x="230" y="55" width="54.554722203404594" height="8" rx="4" fill="#f34b7d" />
+    <rect x="230" y="55" width="52.87500414869899" height="8" rx="4" fill="#f34b7d" />
   
     <circle cx="22" cy="90" r="5" fill="#3178c6" />
     <text x="34" y="94" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14">TypeScript</text>
-    <text x="220" y="94" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14" text-anchor="end">21.4%</text>
+    <text x="220" y="94" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14" text-anchor="end">20.7%</text>
     <rect x="230" y="83" width="249" height="8" rx="4" fill="#e4e2e2" />
-    <rect x="230" y="83" width="53.30234131837717" height="8" rx="4" fill="#3178c6" />
+    <rect x="230" y="83" width="51.66118356970897" height="8" rx="4" fill="#3178c6" />
   
     <circle cx="22" cy="118" r="5" fill="#555555" />
     <text x="34" y="122" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14">C</text>
-    <text x="220" y="122" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14" text-anchor="end">5.4%</text>
+    <text x="220" y="122" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14" text-anchor="end">5.2%</text>
     <rect x="230" y="111" width="249" height="8" rx="4" fill="#e4e2e2" />
-    <rect x="230" y="111" width="13.393845617853902" height="8" rx="4" fill="#555555" />
+    <rect x="230" y="111" width="12.98145447374054" height="8" rx="4" fill="#555555" />
   
     <circle cx="22" cy="146" r="5" fill="#00ADD8" />
     <text x="34" y="150" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14">Go</text>
-    <text x="220" y="150" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14" text-anchor="end">4.4%</text>
+    <text x="220" y="150" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14" text-anchor="end">5.1%</text>
     <rect x="230" y="139" width="249" height="8" rx="4" fill="#e4e2e2" />
-    <rect x="230" y="139" width="10.89266755155017" height="8" rx="4" fill="#00ADD8" />
+    <rect x="230" y="139" width="12.597647868049728" height="8" rx="4" fill="#00ADD8" />
   
     <circle cx="22" cy="174" r="5" fill="#e34c26" />
     <text x="34" y="178" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14">HTML</text>
-    <text x="220" y="178" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14" text-anchor="end">3.8%</text>
+    <text x="220" y="178" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14" text-anchor="end">4.1%</text>
     <rect x="230" y="167" width="249" height="8" rx="4" fill="#e4e2e2" />
-    <rect x="230" y="167" width="9.502375860100067" height="8" rx="4" fill="#e34c26" />
+    <rect x="230" y="167" width="10.251271425925884" height="8" rx="4" fill="#e34c26" />
   
-    <circle cx="22" cy="202" r="5" fill="#8b949e" />
-    <text x="34" y="206" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14">ShaderLab</text>
-    <text x="220" y="206" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14" text-anchor="end">2.4%</text>
+    <circle cx="22" cy="202" r="5" fill="#178600" />
+    <text x="34" y="206" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14">C#</text>
+    <text x="220" y="206" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14" text-anchor="end">3.6%</text>
     <rect x="230" y="195" width="249" height="8" rx="4" fill="#e4e2e2" />
-    <rect x="230" y="195" width="5.985650296321828" height="8" rx="4" fill="#8b949e" />
+    <rect x="230" y="195" width="8.857015630373768" height="8" rx="4" fill="#178600" />
   
-    <circle cx="22" cy="230" r="5" fill="#563d7c" />
-    <text x="34" y="234" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14">CSS</text>
-    <text x="220" y="234" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14" text-anchor="end">1.2%</text>
+    <circle cx="22" cy="230" r="5" fill="#8b949e" />
+    <text x="34" y="234" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14">ShaderLab</text>
+    <text x="220" y="234" fill="#586069" font-family="Verdana, Geneva, sans-serif" font-size="14" text-anchor="end">2.3%</text>
     <rect x="230" y="223" width="249" height="8" rx="4" fill="#e4e2e2" />
-    <rect x="230" y="223" width="2.885252247631398" height="8" rx="4" fill="#563d7c" />
+    <rect x="230" y="223" width="5.801354520157866" height="8" rx="4" fill="#8b949e" />
   
 </svg>
