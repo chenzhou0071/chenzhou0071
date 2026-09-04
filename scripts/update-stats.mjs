@@ -10,8 +10,8 @@ const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 // 需要从统计中排除的仓库（如课程作业、不想展示的项目）
 const EXCLUDE_REPOS = ['Smart_Flower_Pot'];
 
-// 需要从统计中排除的语言（如博客样式、配置文件等）
-const EXCLUDE_LANGS = ['CSS'];
+// 需要从统计中排除的语言（如 Unity 自动生成的着色器文件）
+const EXCLUDE_LANGS = ['ShaderLab'];
 
 // GitHub 语言颜色表（取自 linguist）
 const LANG_COLORS = {
