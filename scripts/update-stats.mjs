@@ -8,7 +8,7 @@ const USER = 'chenzhou0071';
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 
 // 需要从统计中排除的仓库（如课程作业、不想展示的项目）
-const EXCLUDE_REPOS = ['Smart_Flower_Pot'];
+const EXCLUDE_REPOS = ['Smart_Flower_Pot', 'DocTalk'];
 
 // 需要从统计中排除的语言（如 Unity 自动生成的着色器文件）
 const EXCLUDE_LANGS = ['ShaderLab'];
